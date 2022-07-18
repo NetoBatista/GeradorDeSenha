@@ -1,0 +1,13 @@
+{
+    "title": "Gerador de senha",
+    "description": "Gerador de senha segura, simples e rápido",
+    "title-custom": "Personalize sua senha",
+    "count-characters": "Quantidade de caractéres",
+    "letter-uppercase": "Letra maiúscula",
+    "letter-lowercase": "Letra minúscula",
+    "numbers": "Números",
+    "symbols": "Símbolos",
+    "success-copy": "Copiado com sucesso",
+    "theme-dark": "Tema escuro",
+    "theme-light": "Tema claro"
+}

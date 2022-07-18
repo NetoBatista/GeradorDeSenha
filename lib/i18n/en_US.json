@@ -1,0 +1,17 @@
+{
+    "title": "Password generator",
+    "description": "Secure, simple and fast password generator",
+    "title-custom": "Customize your password",
+    "count-characters": "Number of characters",
+    "letter-uppercase": "Capital letter",
+    "letter-lowercase": "Lower case",
+    "numbers": "Numbers",
+    "symbols": "Symbols",
+    "success-copy": "Successfully copied",
+    "theme-dark": "Dark theme",
+    "theme-light": "Light theme"
+}
+
+
+
+
